@@ -18,6 +18,7 @@ function LandingPage() {
       }
     });
   };
+
   return (
     <div
       style={{
